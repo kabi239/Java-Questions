@@ -1,3 +1,4 @@
+package Ouestions;
 // this code will work till integer value
 public class addTwoNumbers {
 

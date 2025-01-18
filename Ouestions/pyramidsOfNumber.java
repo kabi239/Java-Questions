@@ -1,3 +1,4 @@
+package Ouestions;
 
 public class pyramidsOfNumber {
     void pyramid(int a) {

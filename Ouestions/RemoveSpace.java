@@ -1,3 +1,4 @@
+package Ouestions;
 import java.util.Scanner;
 
 public class RemoveSpace {

@@ -1,5 +1,5 @@
+package Ouestions;
 import java.util.Scanner;
-
 public class swipeDiagonalsOfMatrix {
     public static void main(String[] args) {
         // Note: Don't change class name
@@ -12,7 +12,6 @@ public class swipeDiagonalsOfMatrix {
 				arr[i][j] = sc.nextInt();
 			}
 		}
-
 		int row=0, col=0;
 		while(row<n && col <n){
 			int temp = arr[row][col];
