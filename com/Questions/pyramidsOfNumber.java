@@ -1,4 +1,4 @@
-package Ouestions;
+package com.Questions;
 
 public class pyramidsOfNumber {
     void pyramid(int a) {

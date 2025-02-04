@@ -1,4 +1,5 @@
-package Ouestions;
+package com.Questions;
+
 public class listNodeMerge {
     public static listNode mergeTwoLists(listNode list1, listNode list2) {
         listNode result = new listNode(-1);

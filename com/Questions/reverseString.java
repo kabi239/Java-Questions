@@ -1,4 +1,4 @@
-package Ouestions;
+package com.Questions;
 /*
  *write a Java program to reverse a given string using recursive method
  */

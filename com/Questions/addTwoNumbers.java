@@ -1,4 +1,5 @@
-package Ouestions;
+package com.Questions;
+
 // this code will work till integer value
 public class addTwoNumbers {
 

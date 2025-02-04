@@ -1,4 +1,4 @@
-package Ouestions;
+package com.Questions;
 import java.util.Stack;
 
 public class validParentheses {

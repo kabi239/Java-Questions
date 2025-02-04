@@ -1,4 +1,4 @@
-package Ouestions;
+package com.Questions;
 
 public class longestCommonPrefix {
     public String longestCommonPrefixAns(String[] strs) {

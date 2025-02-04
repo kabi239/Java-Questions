@@ -1,4 +1,4 @@
-package Ouestions;
+package com.Questions;
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {
         String s = Integer.toString(x);

@@ -1,4 +1,4 @@
-package Ouestions;
+package com.Questions;
 public class listNode {
     int val;
     listNode next;
