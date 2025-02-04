@@ -1,11 +1,8 @@
 package com.Questions;
 
-import java.util.Scanner;
-
 public class printDiagonalOfAMatrix {
     public static void main(String[] args) {
         int n= 5;
-		Scanner sc = new Scanner(System.in);
         //String arr [][] = new String[n][n];
         // int row=0, col=0;
 		// while(row<n && col <n){
