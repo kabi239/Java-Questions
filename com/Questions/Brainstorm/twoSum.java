@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 import java.util.Arrays;
 import java.util.HashMap;
 

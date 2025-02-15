@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 
 // this code will work till integer value
 public class addTwoNumbers {

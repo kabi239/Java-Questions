@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 public class listNode {
     int val;
     listNode next;

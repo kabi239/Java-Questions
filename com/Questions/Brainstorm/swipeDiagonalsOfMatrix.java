@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 import java.util.Scanner;
 public class swipeDiagonalsOfMatrix {
     public static void main(String[] args) {

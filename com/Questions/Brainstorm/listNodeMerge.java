@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 
 public class listNodeMerge {
     public static listNode mergeTwoLists(listNode list1, listNode list2) {

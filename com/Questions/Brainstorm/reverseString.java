@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 /*
  *write a Java program to reverse a given string using recursive method
  */

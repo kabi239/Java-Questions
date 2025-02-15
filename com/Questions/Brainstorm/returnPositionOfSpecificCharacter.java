@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 
 public class returnPositionOfSpecificCharacter {
     public static void main(String[] args) {

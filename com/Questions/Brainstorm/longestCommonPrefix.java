@@ -1,4 +1,4 @@
-package com.Questions;
+package com.Questions.Brainstorm;
 
 public class longestCommonPrefix {
     public String longestCommonPrefixAns(String[] strs) {
