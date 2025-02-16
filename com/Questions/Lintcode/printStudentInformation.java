@@ -1,5 +1,5 @@
 package com.Questions.Lintcode;
-/* Question: 
+/* Question no 3357: 
  Create a Student class to represent a student object, 
 now have the following requirements: have the following class attributes, 
 name, age, list of grades [language, math, English], where the type of each class 
