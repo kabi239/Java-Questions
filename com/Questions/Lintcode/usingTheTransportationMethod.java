@@ -21,15 +21,11 @@ class Vehicle {
    private int acceleration;
    private  int time;
 
-    public Vehicle(int velocity,  int volume, int time, int acceleration) {
+    public Vehicle(int velocity, int acceleration,int time, int volume) {
         this.velocity = velocity;
         this.volume = volume;
         this.acceleration = acceleration;
         this.time = time;
-        move();
-        setSpeed(velocity);
-        speedUp();
-        speedDown();
     }
     
     public void move() {
@@ -54,6 +50,10 @@ class Vehicle {
 }
 public class usingTheTransportationMethod {
     public static void main(String[] args) {
-        Vehicle vehicle =new Vehicle(1,2,5,2);
+        Vehicle vehicle =new Vehicle(5,2,2,10);
+        vehicle.move();
+        vehicle.setSpeed(5);
+        vehicle.speedUp();
+        vehicle.speedDown();
     }
 }
